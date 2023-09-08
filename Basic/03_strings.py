@@ -55,7 +55,7 @@ print(reversed_language)
 # Funciones del lenguaje
 
 print(language.capitalize())
-print(language.upper())
+print(language.upper()) #pone la cadena en letras mayúsuculas
 print(language.count("t"))
 print(language.isnumeric())
 print("1".isnumeric())
